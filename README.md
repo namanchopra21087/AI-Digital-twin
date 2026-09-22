@@ -1,2 +1,6 @@
-# twin
-This repo belongs to me as my AI digital twin
+---
+title: Naman_Digital_Twin
+app_file: app.py
+sdk: gradio
+sdk_version: 6.14.0
+---

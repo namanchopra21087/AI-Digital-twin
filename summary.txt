@@ -1,2 +1,325 @@
 My name is Naman Chopra. I'm an architect, software engineer. I'm originally from New Delhi, India.
 I love all foods, particularly North Indian food, but strangely I'm repelled by almost all forms of cheese! A die heart Chicken lover, I preffer non-veg over any other form of food
+
+NAMAN CHOPRA
+Belur Apartments, Dwarka-18A, New delhi-110075 | +919910337057 | namanchopra21087@gmail.com |
+LinkedIn: https://www.linkedin.com/in/naman-chopra-7382b315/
+PRINCIPAL ARCHITECT
+BLOCKCHAIN | EOS | SOLANA | AWS | AZURE | SERVERLESS | JAVA | SPRING BOOT |MICROSERVICES | SPRING
+SECURITY | JWT | ANGULAR-8 |MONGO ATLAS | CI/CD TOOLS |KUBERNETES
+EXECUTIVE SUMMARY
+• Principal-level Architect with 15+ years of experience building large-scale distributed systems across
+fintech, SaaS, ecommerce and enterprise domains.
+• Designed multi-tenant SaaS platforms serving 350+ enterprise clients per region.
+• Architected high-throughput systems processing 50K+ messages per minute and 1M+ transactions per day.
+• Led engineering teams across backend, frontend, DevOps and cloud architecture from RFP to production
+scale.
+• Strong hands-on expertise in microservices, event-driven architecture, serverless computing and cloud-
+native design.
+CORE COMPETENCIES
+• Architecture: Microservices, Event-Driven Architecture, Domain-Driven Design, Saga Pattern, Multi-Tenant
+SaaS.
+• Cloud Platforms: AWS (Lambda, SNS, SQS, Route 53, S3, Cognito, Aurora, SES, EKS, ALB, VPC, Subnet, DynamoDB,
+Document DB, EC2, CloudWatch, API Gateway), Azure (VM, Functions, AKS, Blob Storage, Cosmos DB, Azure
+DNS, VNet, Subnet, Application Gateway, Service Bus Queue, Notification Hub, Active Directory).
+• Backend: Java (8–17), Spring Boot, Spring Security, JWT, NestJs.
+• Frontend: React, Next.js, Angular, Node.js.
+• Data & Streaming: PostgreSQL, MongoDB, MongoDB Atlas, DynamoDB, Snowflake, Kafka, Confluent.
+• DevOps & Infra: Docker, Kubernetes, Terraform, CloudFormation, GitHub Actions, Jenkins, Azure DevOps.
+• DApps: Blockchain, Solana, EOS, Corda.
+• Code Monitoring/Quality Tools: AWS CloudWatch, Prometheus & Grafana Dashboards, ELK, Swagger, SonarQube,
+Veracode.
+PROFESSIONAL EXPERIENCE
+Pure-Software 21st August 2017 till date
+Markit (S&P Global) 10th June 2014 till 31st July 2017
+Fidelity 4th November 2013 till 4th June 2014
+Accenture 27th July 2010 till 31st October2013
+KEY ASSIGNMENTS
+PURESOFTWARE
+Project Cappitech (1st Jan 2025 till date)
+Client S&P Global
+Area of work Principal Architect
+Description Green field project to build SaaS reconciliation platform for different
+datasets at scale
+Responsibilities • I was involved from RFP stage, building architecture design,
+finalizing tech roles and hiring
+• Build reconciliation platform for datasets coming from different
+sources
+• Designed multi-tenant architecture platform which can be used
+by 350+ clients per region
+• Designed distributed reconciliation engine processing 50K+
+messages/min and 200+ daily jobs (1GB each) using AWS SQS-
+based Saga choreography
+• Pairing of records must happen from both datasets at scale
+• System was designed using saga choreography design pattern
+leveraging SQS for async communication
+• At the end of each recon, breaks are generated for each
+mismatch of fields
+• Breaks are converted into tickets and ingested into inhouse
+ticket management system
+• Auto closure of breaks happens on next recon run once the
+breaks are fixed at source
+Solution Environment AWS, EKS, SQS, PostgreSQL with JSONB, React, Java, Docker
+Technology • Build backend apis leveraging java
+• React was used for building front end
+• Backend microservices architecture was built using Java 17
+• Api’s were deployed on EKS
+• GitHub is used for CI/CD pipelines
+PURESOFTWARE
+Project Prop-X (1st August 2024 till 28th Feb 2025)
+Area of work Solution Architect
+Description Green field project to build online platform to transact properties
+directly between buyers & sellers
+Responsibilities • Design & implement web portal which can be leveraged by
+buyers and vetted sellers for selling/purchase of
+residential/commercial properties in UAE.
+• I was involved from RFP till development stage
+• Designed e2e architecture and setup team to deliver
+• Responsible for Azure Devops
+Solution Environment Azure, AKS, Cosmos DB, Blob Storage
+Technology • Build backend apis leveraging java
+• Next.js was used for building front end
+• Api’s were deployed on AKS
+• Bitbucket is used for CI/CD pipelines
+PURESOFTWARE
+Project UNTIL (1st June 2024 till 15th April 2025)
+Area of work Solution Architect
+Description Build web portal for wellness industry to book spaces. It is on model
+of co-working space for wellness industry
+Responsibilities • Build backend apis leveraging Nodejs
+• Next.js was used for building front end
+• Api’s were deployed on lambda
+• Git-Actions is used for CI/CD pipelines
+Solution Environment AWS, Lambda
+Technology Node.js, Next.js
+PURESOFTWARE
+Project THG (1st May 2023 till 31st May 2024)
+Area of work Solution Architect
+Description Saas e-commerce platform
+Responsibilities • I handled a team of 42 people working in various verticals
+• We built Ingenuity product integration layers
+• Helped in cloud migration from EC2 to EKS
+• Helped client go-live for Matlan ecommerce platform
+Solution Environment AWS, Springboot, Keycloak, Java, ReactJs
+Technology Java 17, AWS
+PURESOFTWARE
+Project JAPFA (1st May 2023 till 31st October 2024)
+Area of work Solution Architect
+Description Build end to end ecommerce platform for raw products to be sold on
+D2C platform. Model like Licious India.
+Responsibilities • Build Android/IOS mobile App for D2C customers.
+• Implement ecommerce website complimentary to mobile
+apps for web traffic.
+• Build Backoffice operations platform for managing inventory,
+invoicing, catalogue uploading etc.
+• Built cloud native environment leveraging AWS cloud.
+• Implement backend microservice architecture with Sprint
+Boot & Java.
+Solution Environment AWS, Springboot, Keycloak, Flutter, ReactJs
+Technology Java 17, AWS
+PURESOFTWARE
+Project HUB (1st September 2022 till 30th April 2023)
+Area of work Solution Architect
+Description Build post trade settlement application using event driven design to
+minimize latency to milli-seconds
+Responsibilities • Integrate reference data into client environment from
+Bloomberg.
+• Data ingestion pipeline was built using Confluent (SAAS
+offering of Kafka).
+• Kafka connectors helped ingest data from topics into
+snowflake, postgres.
+• Data scrubbing engine was built to massage the data in HUB
+compliant format.
+• Integration with Matching platforms like Tirana for
+settlement of trade.
+• Leveraged Palto Alto networks for Security.
+Solution Environment Kafka, KSql, Java 17, Azure, Confluent, Palo Alto Networks
+Technology Java 17, Azure
+PURESOFTWARE
+Project Jumpstart (1st Feb 2022 till 31st August 2022)
+Client Encore
+Area of work Solution Architect
+Description Worked as a solution architect, for designing headless application
+with serverless features
+Responsibilities • Build microservices for marketing letters.
+• Transaction volume was more than 1 million per day.
+• Designed system using Cloud native AWS services likes S3,
+SQS, SNS, Lambda.
+• It’s a headless system with async communication from
+outside world.
+Solution Environment Java, Spring, AWS, Lambda for serverless
+Technology Java
+PURESOFTWARE
+Project Arttha (1st Oct 2021 till 31st Jan 2022)
+Client In House Fintech Product
+Area of work Solution Architect
+Description Worked as a solution architect, for designing mobile app in flutter
+Responsibilities • Develop lending page for loan app.
+• App must support IOS/Android mobiles.
+• It was a scratch development project.
+• Flutter was taken as the technology stack to utilize its
+platform agnostic features and mobile hardening out of the
+box support.
+Solution Environment IOS, Android mobile app
+Technology Flutter
+PURESOFTWARE
+Project Blacksmith (1st Jan 2021 till 30th September 2021)
+Client Bolttech (Malaysia)
+Area of work TechLead
+Description I was full stack tech lead responsible for development and integration
+of front end and backend
+Responsibilities • Work on next generation tech stack to speed up time to
+market for BAU teams.
+• POC & R&D on tech stack like:
+o Blockchain
+o Smart TV App
+o Zoom Integration App for Sales Agent
+o Product Foundry Rule Engine Automation
+o Cypress integration for automation of test suite
+o Corda permissioned blockchain
+o EOS Delegated proof of stake POC
+o Solana
+Solution Environment Eos, Corda Dapps, Tizen OS, Terraform, Zoom App integration with
+Spring Boot, Java 8
+Technology Blockchain, Tizen OS for smart TV
+PURESOFTWARE
+Project CRMZ (21st Jan 2019 till 31st Dec 2020)
+Client Amtrust Mobile Solutions/Bolttech (Malaysia)
+Area of work TechLead
+Description I was full stack tech lead responsible for development and
+integration of front end and backend
+Responsibilities • Worked on a project from scratch.
+• First developer hired for project.
+• CRMZ product first ever line of code was written by me.
+• Designing the application workflow.
+• Implemented multi-tenant architecture.
+• Individually helped Amtrust establish a team, setup agile
+processes.
+• Developed modules like policy and Identity.
+• Did front end and Backend coding.
+• Had a strong relationship with client as I was actively
+involved in requirement gathering.
+• Played scrum-master role as well.
+• Involved in dev-ops as well for production deployment.
+Solution Environment Springboot-2, Microservices, Spring-Security, JWT, Angular-8, Maven,
+Mongo-DB, AWS (EC2, API-Gateway, Lambda Services, S3, Route 53,
+SNS, SQS, COGNITO), Jenkins.
+Technology Jdk-1.8, Spring-Boot 2, Spring Security, Angular-8.
+PURESOFTWARE
+Project Power-Curve (21st August 2017 31st December 2018)
+Client Experian (Malaysia)
+Area of work Tech Lead
+Description Worked as tech lead in maintaining a team of 14 resources (9
+developers and 5 QA)
+Responsibilities • Developed and followed agile project management plan (Agile
+Ceremonies).
+• Facilitated build requirements log (product backlog) with cost
+estimates and priority.
+• Conducted Scrum Daily stand up, Product backlog, Sprint
+Planning, Sprint Review & Sprint Retrospective meetings.
+• Measuring team performance using matrix like ‘Velocity’ and
+‘Focus factor’.
+• Involved in technical design analysis and estimation of new
+feature development.
+Solution Environment J2ee with jdk-1.8, Oracle SQL, Microsoft SQL
+Technology Java, Spring, Hibernate, Semaphore for concurrency, Countdown-
+Latch.
+MARKIT
+Project IMSecurities (30th August 2015-31st July 2017)
+Client Nordea
+Area of work Worked on Restful webservices
+Description Developed 17th webservices for various IMSecurities product
+functionalities like casearch, CreateElection,
+TransactionCustodyRetailSearch, FifoWebservice subposition transfer.
+Responsibilities I was involved in end-to-end development of 17 different webservices
+in both GET and PUT request. For triggering Put webservice we used
+rest-client from Firefox.
+Solution Environment J2ee, Oracle SQL
+Technology Java
+MARKIT
+Project IMActions (1st Jan 2015- 30th August 2015)
+Client UBS, Nordea, GIC, NTS, CITI
+Area of work Worked on Gwt, hibernate and spring.
+Description IMActions is an application that is used for scrubbing and
+processing of corporate actions.
+Responsibilities I was involved in end-to-end development of various CR’s
+Solution Environment J2ee, Oracle SQL
+Technology Java
+MARKIT
+Project IMConnecting (10th June 2014- 31st December 2014)
+Client Singapore stock exchange
+Area of work Worked on Gwt, hibernate and spring.
+Description IMConnecting is a platform to announce corporate actions by issuer
+which can be seen and further elected by investors.
+Responsibilities I was involved in end-to-end development of various corporate
+action templates like DVOP, Rights.
+Solution Environment J2ee, GWT, Hibernate
+Technology Java
+FIDELITY
+Project PlanViewer (November 2013 - 9th June 2014)
+Client Fidelity
+Area of work Worked on back-end technology like struts
+Description Fidelity is a finance company. Most of its mutual fund’s business is
+in UK. PlanViewer is one of the clients supported applications
+directly used by clients in UK.
+Responsibilities I was involved in FATCA, one of the regulatory projects of fidelity. I
+was directly involved in struts back-end coding.
+Solution Environment J2EE, Struts
+Technology Java
+ACCENTURE
+Project New York City-HHS Accelerator (10th January 2013 – 30th September 2013)
+Client New York City (Government Project)
+Area of Work Portal & Portlet’s
+Description It’s a government project. New-York mayor wants a publicly accessible portal, where extern
+can bid for various public-service related schemes. Once a provider is finalized for a specific s
+which is entitled to the designated provider for a specific duration.
+• To build this application we used Spring MVC framework. Portal and Portlets were used to
+• This application will be used by multiple agencies and its associated providers to various p
+• My role was to develop Portlets enabled with spring-mvc architecture.
+• From the controller we hit transaction to call a specific service for a given functionality.
+• To access the database from service layer Dao classes were made.
+• Oracle-SQL was used as the database for all DDL’s & DML’s.
+Responsibilities • Developing J2EE functionalities, with Spring-MVC framework.
+• Testing of all the new functionalities to nullify client-side bug.
+• Delivering all the required CR’S on target dates.
+• Once the built was over, resolving all the SIT bugs to deliver a bug free product to the clien
+• Direct client interaction to guide them regarding all the new changes through meetings or
+Initiatives/Contribution • Developed a reusable code using Spring-MVC.
+Solution Environment J2EE,Spring-MVC,JSp,Jquery:Ajax,Portals.
+Technology Java
+ACCENTURE
+Project Areva development and maintenance (1st March 2012 - 9th January 2013)
+Area of work Worked extensively on web
+Description • Areva client is one of the largest manufacturers of transformers and electrical appliances i
+• They have about 1200 applications that are supported by Accenture in JAVA all designed in
+• Some of the critical client-based applications are Project monthly report (PMR), CCHS, B-B
+Responsibilities • Developing JavaScript design elements for the client requirements.
+• Testing of all the new functionalities to nullify client-side bug.
+• Delivering all the required CR’S on target dates.
+• Resolving tickets that came in my queue on or before the breach-date.
+• Direct client interaction to guide them regarding all the new changes through meetings or
+Solution Environment J2EE,JSP,MVC
+Technology Java
+ACCENTURE
+Project Henkel SAM-Enhancements and Maintenance (1st October 2010 - 28th Feb 2012)
+Area of Work Worked Extensively on Client-Side Developments
+Description The project is aimed at delivering business solutions with speed & innovation, reliabilit
+effectiveness by providing a high impact Middleware & Backend Solutions inclusive of JA
+requirements.
+• This company adopted JAVA as a technology to make its internal users integrate all inform
+• Henkel employees used the entire database that supported JAVA client and web functional
+• My role was to develop new requirements for the user in JavaScript.
+• JAVA was responsible for gathering data from all the users regarding different application
+uploaded on the Henkel servers from where it was further uploaded into SAP.
+Responsibilities • Developing JavaScript design elements for the client requirements.
+• Testing of all the new functionalities to nullify client-side bug.
+• Delivering all the required CR’S on target dates.
+• Resolving tickets that came in my queue on or before the breach-date.
+• Direct client interaction to guide them regarding all the new changes through meetings or
+Initiatives/Contribution • Developed a reusable code in Java Script to compare field data in multiple documents at on
+• Documented solutions of multiple issues for future reference.
+• Delivered KT to new team-members.
+Solution Environment J2EE,JavaScript,Scriplets.
+Technology Java
+EDUCATIONAL CREDENTIALS
+B Tech from Thapar University, Patiala (2010)

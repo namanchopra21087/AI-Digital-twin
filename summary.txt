@@ -30,11 +30,34 @@ DNS, VNet, Subnet, Application Gateway, Service Bus Queue, Notification Hub, Act
 • Code Monitoring/Quality Tools: AWS CloudWatch, Prometheus & Grafana Dashboards, ELK, Swagger, SonarQube,
 Veracode.
 PROFESSIONAL EXPERIENCE
-Pure-Software 21st August 2017 till date
+Happiest Minds 1st April 2026 till date
+Pure-Software 21st August 2017 till 31st March 2026
 Markit (S&P Global) 10th June 2014 till 31st July 2017
 Fidelity 4th November 2013 till 4th June 2014
 Accenture 27th July 2010 till 31st October2013
 KEY ASSIGNMENTS
+Happiest Minds
+Project Prudential (15th Jan 2026 till date)
+Client Prudential
+Area of work Senior Solution Architect(Group Pruforce)
+I am working as Group Pruforce architect for Prudential, designing Pruforce 2.5 for Digital Enhancements of Pruforce.
+Prudential has 20+ LBU's with compelxity of designing for group while keeping system open for customization as per individual LBU'S
+Responsibilities 
+• Design Activity management for agents to track there pre-sales dashboard for proposals, quotations and e-learnign via docebo
+• Implement prudential group architecture within pruforce
+• Design Pruforce to Salesforce bidirectional communication via API's and PLatform Events
+• Started brown field initiative for building agency servicing portal within Puforce helping agents to performs task on behalf of customers
+    • This needs extensive integration with PruServcies(Customer portal) for raising servicing request onbehalf of customers
+• Built SSO via SAML between Pruforce to Salesforce,Docebo and other third party applications for a seamless agent experience
+• Design integration architecture for IBM content manager for singapore market
+
+Solution Environment Azure, AKS, APIM, WAF, MongoDb, NestJs, Java, Docker, ReactJs, GCP
+Technology • Build backend apis leveraging NestJs & Java
+• React was used for building front end
+• Backend microservices architecture was built using NestJs 16 in 80% repos and Java 21 in 20% repos
+• Api’s were deployed on AKS
+• GitHub is used for CI/CD pipelines
+
 PURESOFTWARE
 Project Cappitech (1st Jan 2025 till date)
 Client S&P Global
